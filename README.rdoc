@@ -1,0 +1,3 @@
+== README
+
+Followed RailsCast episode 250 to build an app with authentication from scratch.  The tutorial used Rails 3.2.  I used Rails 4.1.6 and used strong params in the users controller instead of attr_accesible in order to handle what parameters it would accept.
